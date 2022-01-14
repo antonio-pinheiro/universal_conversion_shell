@@ -7,7 +7,7 @@ Antônio Pinheiro<br>
 
 <h5>Obs.: Esse projeto visa a conversão de formatos de arquivos de imagens, músicas e imagens de disco.
 Os formatos suportos de imagens são: JPG, PNG.
-Formatos suportados de músicas: MP3 e OGG
+Formatos suportados de músicas: MP3 e OGG.
 Formatos suportados de imagens de disco: IMG, BIN, ISO, NRG e MDF</h5>
 
 <h5>DEPENDÊNCIAS DO PROJETO</h5>
