@@ -1,4 +1,4 @@
-<h1>Universal Conversion</h1>
+<h1>Universal Converter</h1>
 <h2>Desenvolvido em Shell Script</h2>
 
 <h5>Desenvolvedor:</h5>
