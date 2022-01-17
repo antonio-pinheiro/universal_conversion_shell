@@ -1,25 +1,25 @@
 #!/bin/bash
 
 ############################################################################## 
-##																			## 
-##			              Universal Conversion  			    .~.			##
-##					Created by:	Antônio Pinheiro 				/V\			##
-##															   // \\		##
-##															  /(   )\		##
-##															   ^`~'^        ##
-##																TUX		   	##
-##				                         									##
-##	Operational Systems Compatibility: Debian / Ubuntu / and Derivatives	##
+##									    ## 
+##			    Universal Converter  		  .~.	    ##
+##			Created by: Antônio Pinheiro 	          /V\	    ##
+##								 // \\	    ##
+##		              					/(   )\	    ##
+##						         	 ^`~'^      ##
+##								  TUX       ##
+##				                         		    ##
+##   Operational Systems Compatibility: Debian / Ubuntu / and Derivatives   ##
 ##############################################################################
-##	Project:		Universal Conversion									##
-##															     			##
-##	File name:		universal_conversion.sh 								##
-##																			##
-##	Description:	Convert image files, song files and disk image files    ##
-##	                                                                        ##
-##  Date:           05/12/2021												##             
-##  																		##
-## 																			##
+##  Project:     Universal Converter			            	    ##
+##									    ##
+##  File name:   universal_converter.sh 		                    ##
+##									    ##
+##  Description: Convert image files, song files and disk image files       ##
+##	                                                                    ##
+##  Date:        05/12/2021						    ##             
+##  									    ##
+## 									    ##
 ##############################################################################
 
 #### !!! Instruction: Insert this script inside a directory to convert files !!! ####
